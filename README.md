@@ -1,3 +1,3 @@
 # valerbrowser
-Chromium based browser degoogled and with built-in extensions (adblockers, trakcerblockers, easy-of-use, etc) and privacy
+Chromium based browser degoogled and with built-in extensions (adblockers, trackerblockers, easy-of-use, etc) and privacy
 
